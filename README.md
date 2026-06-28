@@ -13,8 +13,8 @@ AI-generated, with one notable exception: the Blueprint graph. While
 Claude produced a fully functional Blueprint, I spent a few minutes
 reorganizing the graph into something a human could actually read.
 
-You don't need MCP to open or play with this project---it works
-perfectly well as a standalone Unreal project---but it's a compact
+You don't need MCP to open or play with this project. It works
+perfectly well as a standalone Unreal project, but it's a compact
 example of what an MCP-enabled AI assistant can build inside the editor.
 
 This is a **Blueprint-only** project. There is no C++ source.
@@ -26,7 +26,7 @@ This is a **Blueprint-only** project. There is no C++ source.
 This project exists purely as an experiment.
 
 Rather than building a game, the goal was to see how well an AI
-assistant could control Unreal Editor through MCP---creating assets,
+assistant could control Unreal Editor through MCP - creating assets,
 spawning and arranging actors, building materials, manipulating a level,
 and generating Blueprint logic.
 
@@ -40,8 +40,8 @@ directly.
 
 ## What's in here
 
--   **`MCPTestMap`** --- the test level used for the experiments.
--   **`Content/StackedCubes/`** --- assets generated during the
+-   **`MCPTestMap`**: the test level used for the experiments.
+-   **`Content/StackedCubes/`**: assets generated during the
     experiments, including:
     -   `BP_SphereTornado` --- the Blueprint actor responsible for the
         animation.
