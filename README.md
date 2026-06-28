@@ -21,6 +21,24 @@ This is a **Blueprint-only** project. There is no C++ source.
 
 ------------------------------------------------------------------------
 
+## Demo
+
+A full revolution of the sphere tornado: seven metallic rainbow spheres
+spiraling around the rainbow cube tower. This GIF was captured directly
+from the editor through MCP.
+
+![Sphere tornado demo](demo/spiral_tornado.gif)
+
+![Sphere tornado Blueprint](demo/BP_SphereTornado.png)
+
+![Sphere tornado MoveSphere Blueprint](demo/BP_SphereTornado-MoveSphere.png)
+
+### Claude transcript for demo session
+
+!["Make the Demo" session transcript](demo/2026-06-28-SpiralTornadoGIFSessionTranscript.md)
+
+------------------------------------------------------------------------
+
 ## Purpose
 
 This project exists purely as an experiment.
