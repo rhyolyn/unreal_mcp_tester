@@ -33,6 +33,10 @@ from the editor through MCP.
 
 ![Sphere tornado MoveSphere Blueprint](demo/BP_SphereTornado-MoveSphere.png)
 
+### Claude transcript for demo session
+
+!["Make the Demo" session transcript](demo/2026-06-28-SpiralTornadoGIFSessionTranscript.md)
+
 ------------------------------------------------------------------------
 
 ## Purpose
