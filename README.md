@@ -1,4 +1,4 @@
-# Tester
+# Unreal MCP Tester
 
 A small Unreal Engine **5.8** sandbox project created to try out Unreal's **experimental Model Context Protocol (MCP) feature**.
 
