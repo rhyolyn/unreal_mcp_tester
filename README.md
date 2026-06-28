@@ -136,7 +136,7 @@ meaningful step toward a much more interactive development workflow.
 
 The MCP connection is configured in `.mcp.json`.
 
-### Requirements
+### Requirements to experiement with MCP (not required to try out the tester)
 
 -   Unreal Engine **5.8**
 -   **ModelContextProtocol** plugin enabled
